@@ -73,4 +73,8 @@ class TestSauce:
 
 
 testclass = TestSauce()
+#testclass.password_and_username_empty()
+#testclass.only_password_empty()
+#testclass.locked_out_user()
+#testclass.count_products()
 testclass.add_cart()
